@@ -15,14 +15,14 @@ Untuk menjalankan program skrip Java ini, Anda hanya perlu mengompilasinya dan m
 # Task 3 - Algorithm & Data Structure - Flowchart - JAVA
 
 **September 22, 2023**
-This repository contains Task 3 on algorithms and data structures related to flowcharts. In this assignment, I was tasked with creating flowcharts for various scenarios and then implementing Java scripts that follow the flowcharts' logic.
+This repository contains Task 3 on algorithms and data structures related to flowcharts. In this assignment, I was tasked with creating flowcharts for various scenarios and then implementing Java that follow the flowcharts' logic.
 
-I have organized this repository into two folders. The first folder contains Java files with scripts that I created according to my flowcharts. In this folder, you may encounter some flowcharts that may have inaccuracies in terms of formulas or their flow, which could affect the functionality of the Java scripts I have created.
+I have organized this repository into two folders. The first folder contains Java files with scripts that I created according to my flowcharts. In this folder, you may encounter some flowcharts that may have inaccuracies in terms of formulas or their flow, which could affect the functionality of the Java I have created.
 
 As for the second folder, I have filled it with flowcharts that I have improved by researching online and consulting with others. All Java scripts for the cases in this folder can be executed with the appropriate functionality.
 
 **ATTENTION**
 
-To run these Java script programs, you only need to compile them and run them in an Integrated Development Environment (IDE) such as Intellij IDEA, Netbeans, Oracle, or a text editor like Visual Studio Code, Sublime Text, or Notepad++. Before running these programs, you must remove the comment markers at the beginning and end of each script (/* and */), so that the script turns color. Do not forget to restore the comment markers to avoid conflicts that could lead to errors in the running program.
+To run these Java programs, you only need to compile them and run them in an Integrated Development Environment (IDE) such as Intellij IDEA, Netbeans, Oracle, or a text editor like Visual Studio Code, Sublime Text, or Notepad++. Before running these programs, you must remove the comment markers at the beginning and end of each script (/* and */), so that the script turns color. Do not forget to restore the comment markers to avoid conflicts that could lead to errors in the running program.
 
 
