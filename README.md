@@ -1,28 +1,33 @@
-# Tugas 3 - Algoritma & Struktur Data - Flowchart - JAVA
+# Algorithm and Data Structure Task Repository
 
-**22 September 2023**
-Repository ini berisi Tugas 3 tentang algoritma dan struktur data yang berkaitan dengan flowchart. Dalam tugas ini, saya diminta untuk membuat flowchart untuk berbagai skenario dan kemudian mengimplementasikan skrip Java yang mengikuti logika dari flowchart tersebut.
+**Updated: September 22, 2023**
 
-Saya telah mengorganisir repositori ini menjadi dua folder. Folder pertama berisi file Java dengan skrip yang saya buat sesuai dengan flowchart saya. Di folder ini, Anda mungkin menemukan beberapa flowchart yang memiliki ketidakakuratan dalam hal rumus atau alurnya, yang dapat memengaruhi fungsionalitas dari skrip Java yang saya buat.
+Welcome to the Algorithm and Data Structure Task Repository! Here, you'll find an organized collection of flowcharts and Java implementations related to various scenarios. This repository was created as part of Task 3, which involves designing algorithms and data structures.
 
-Sedangkan untuk folder kedua, saya telah mengisi dengan flowchart yang telah saya perbaiki dengan melakukan penelitian online dan berdiskusi dengan orang lain. Semua skrip Java untuk kasus-kasus di folder ini dapat dijalankan dengan fungsionalitas yang sesuai.
+## Repository Structure
 
-**PERHATIAN**
+This repository is structured into two main folders:
 
-Untuk menjalankan program skrip Java ini, Anda hanya perlu mengompilasinya dan menjalankannya dalam Lingkungan Pengembangan Terpadu (IDE) seperti Intellij IDEA, Netbeans, Oracle, atau editor teks seperti Visual Studio Code, Sublime Text, atau Notepad++. Sebelum menjalankan program ini, Anda harus menghapus tanda komentar di awal dan akhir setiap skrip (/* dan */), sehingga skrip tersebut berubah warna. Jangan lupa mengembalikan tanda komentar untuk menghindari konflik yang dapat menyebabkan kesalahan dalam program yang berjalan.
+### 1. Java Implementations
+In the "Java Implementations" folder, you'll find Java scripts that I created based on the corresponding flowcharts. While these scripts aim to follow the logic of the flowcharts, please note that there might be some flowcharts with inaccuracies in terms of formulas or workflow. These inaccuracies may affect the functionality of the Java implementations. 
 
+### 2. Improved Flowcharts
+The "Improved Flowcharts" folder contains enhanced and refined flowcharts. I have worked on improving these flowcharts by conducting online research and consulting with others. As a result, the flowcharts in this folder are more accurate and reliable. The Java scripts corresponding to these improved flowcharts are functional and can be executed without issues.
 
-# Task 3 - Algorithm & Data Structure - Flowchart - JAVA
+## Instructions for Running Java Programs
 
-**September 22, 2023**
-This repository contains Task 3 on algorithms and data structures related to flowcharts. In this assignment, I was tasked with creating flowcharts for various scenarios and then implementing Java that follow the flowcharts' logic.
+To run the Java programs from this repository, you can follow these steps:
 
-I have organized this repository into two folders. The first folder contains Java files with scripts that I created according to my flowcharts. In this folder, you may encounter some flowcharts that may have inaccuracies in terms of formulas or their flow, which could affect the functionality of the Java I have created.
+1. Open an Integrated Development Environment (IDE) such as Intellij IDEA, Netbeans, Oracle, or use a text editor like Visual Studio Code, Sublime Text, or Notepad++.
 
-As for the second folder, I have filled it with flowcharts that I have improved by researching online and consulting with others. All Java scripts for the cases in this folder can be executed with the appropriate functionality.
+2. Navigate to the specific Java file you want to run within the "Java Implementations" folder.
 
-**ATTENTION**
+3. Before executing the program, make sure to remove the comment markers at the beginning and end of each script (/* and */). This will activate the script and allow it to run.
 
-To run these Java programs, you only need to compile them and run them in an Integrated Development Environment (IDE) such as Intellij IDEA, Netbeans, Oracle, or a text editor like Visual Studio Code, Sublime Text, or Notepad++. Before running these programs, you must remove the comment markers at the beginning and end of each script (/* and */), so that the script turns color. Do not forget to restore the comment markers to avoid conflicts that could lead to errors in the running program.
+4. Once the comments are removed, you can compile and execute the Java program as needed.
 
+## Contribution and Feedback
 
+While this repository primarily showcases my individual work, I'm open to contributions and improvements. If you have ideas to enhance the flowcharts or suggestions for more feature-rich versions, please feel free to get in touch.
+
+Thank you for exploring this repository, which represents my journey of learning and growth in the realm of algorithms and data structures. If you have any questions, feedback, or ideas to share, don't hesitate to reach out. Enjoy your experience here!
